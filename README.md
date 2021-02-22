@@ -9,4 +9,4 @@ This Folder includes the sample data for the developed models. We have one .txt 
 Model directory includes .py codes for the data preprocessing and ML Models
 
 ## spatialEnv
-This directory is the virtual environment
+This directory is the virtual environment. All the requirements of the model are stored in spatialEnv directory. 
