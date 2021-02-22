@@ -3,6 +3,7 @@ This repository has the codes for predicting land cover for binary data using fo
 The repo includes: data, Models, and spatialEnv directories.
 
 ## Data
+This Folder includes the sample data for the developed models
 
 ## Model
 
