@@ -3,7 +3,7 @@ This repository has the codes for predicting land cover for binary data using fo
 The repo includes: data, Models, and spatialEnv directories.
 
 ## Data
-This Folder includes the sample data for the developed models
+This Folder includes the sample data for the developed models. We have one .txt file per variable and the dataPrep.py model will read the files to cunstruct the training-test-validation data.
 
 ## Model
 
